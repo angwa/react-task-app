@@ -19,6 +19,12 @@ npm start
 
 ```
 
+### Start Json server for your mocked database by running this command in a new terminal on the same project
+
+```
+npm run server
+```
+
 Once the above command has been used, your application should be listening to a port ```3000`` Thus, you can visit to see app using
 
 ```
